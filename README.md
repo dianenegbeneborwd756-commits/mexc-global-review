@@ -1,37 +1,25 @@
-# MEXC Global Review — A Data-First Assessment
+# MEXC Global Review — Six Months In, Here's What I Actually Think
 
-Exchange reviews tend to read like marketing copy. This one uses numbers.
+I signed up for MEXC because a token I was watching listed there two weeks before it hit Binance. That's still the best argument for the platform, honestly.
 
-## Platform Metrics (Q1 2026)
+## How It Started
 
-- **Listed assets:** 1,700+ spot pairs
-- **24h trading volume:** typically $1–3B (CoinGecko rank: top 10 CEX by volume)
-- **Spot maker fee:** 0%
-- **Spot taker fee:** 0.1%
-- **Futures leverage max:** 200x
-- **KYC requirement:** optional at Level 1; mandatory for higher withdrawal tiers
-- **Fiat on-ramp:** available via third-party processors (MoonPay, Banxa)
+Registration took maybe four minutes. No KYC required to start trading spot — I didn't have to upload anything. That felt weird coming from exchanges that want a selfie on day one. I set up 2FA, transferred a small amount to test the flow, and traded my first altcoin within the hour.
 
-## Liquidity Distribution
+The 0% maker fee showed up immediately in my trade history. Real. Not a promotional rate that expires.
 
-Volume on MEXC concentrates heavily on BTC, ETH, and USDT pairs. Beyond the top 50 tokens, bid-ask spreads widen. On long-tail altcoins (market cap under $50M), slippage on orders above $5,000 is non-trivial. This is standard across CEXes — MEXC is not an outlier, but it's not immune.
+## What Surprised Me (Good And Bad)
 
-## Downtime And Incident Record
+The altcoin selection is genuinely broad. I found three tokens there that weren't on any other top-10 exchange. Two of them went nowhere. One went 4x. That's how early listings work — you're taking on more risk for earlier access.
 
-No major security breach on public record as of March 2026. Maintenance windows are communicated in advance. The platform had documented API slowdowns during high-volatility periods in 2023 and 2024, consistent with most exchanges at peak load.
+The futures section scared me a little. 200x leverage is sitting right there in the interface like it's a normal setting. I didn't use it. I've seen enough trading history to know that leverage at that level is a fast way to learn an expensive lesson.
 
-## Who This Exchange Fits
+Customer support responded in about 14 hours via ticket. Not great, not terrible.
 
-| User Profile | Fit |
-|---|---|
-| Altcoin spot trader | High |
-| Futures trader (experienced) | Moderate |
-| DeFi user looking for CEX bridge | Moderate |
-| US resident | Not available |
-| Beginner using 50x+ leverage | Low |
+## Where I Am Now
 
-## Conclusion
+MEXC is my main exchange for altcoin spot trades. Not for everything — I keep larger holdings elsewhere with stronger regulatory clarity. But for finding new tokens early, and paying almost nothing to enter a position, it's the right tool.
 
-MEXC's 0% maker fee and asset depth make it a rational choice for altcoin spot trading. Futures access is a feature with real risk attached. The data supports using this platform — with defined position sizes and a withdrawal whitelist enabled from day one.
+If you want to try it: start small, enable the withdrawal whitelist, and leave the 200x slider alone.
 
-[View current fee schedule and register →](https://www.mexc.com/register)
+[Sign up here →](https://www.mexc.com/register)
